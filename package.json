@@ -1,0 +1,20 @@
+{
+  "name": "netia_fe_homework",
+  "version": "1.0.0",
+  "description": "netia's homework",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/netia1128/Netia_FE_homework.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/netia1128/Netia_FE_homework/issues"
+  },
+  "homepage": "https://github.com/netia1128/Netia_FE_homework#readme"
+}
